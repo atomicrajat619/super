@@ -1,1 +1,1 @@
-this is a test file for git tutorial modified for testing conflicts.
+this is a test.txt file for git tutorial modified for testing conflicts.
